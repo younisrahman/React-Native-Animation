@@ -66,7 +66,7 @@ const styles = StyleSheet.create({
     width: SIZE,
     height: SIZE,
     backgroundColor: 'rgba(0,0,250,0.5)',
-    borderRadius: 20,
+    borderRadius: SIZE / 2,
   },
   circle: {
     width: CIRCLE_RADIUS * 2,
